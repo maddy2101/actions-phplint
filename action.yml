@@ -1,0 +1,9 @@
+name: 'PHP Lint'
+description: ''
+author: 'Anja Leichsenring'
+branding:
+  icon: 'check-circle'
+  color: 'purple'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
